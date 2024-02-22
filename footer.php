@@ -1,0 +1,1 @@
+<footer>All rights reserved farjana-dipa.com</footer>
